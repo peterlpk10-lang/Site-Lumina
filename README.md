@@ -10,7 +10,7 @@
 
   Execução do Site (Flask)
 
-  --- PASSO 1: Pré-requisitos e Extensões ---
+--- PASSO 1: Pré-requisitos e Extensões ---
 1. Certifique-se de ter o Python instalado em sua máquina.
 
 --- PASSO 2: Instalação das Dependências ---
