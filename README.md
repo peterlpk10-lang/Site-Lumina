@@ -19,16 +19,16 @@ para instalar todas as bibliotecas necessárias de uma só vez:
 
     pip install -r requirements.txt
 ou
-   pip install Flask Flask-SQLAlchemy-Lite PyMySQL)
+    pip install Flask Flask-SQLAlchemy-Lite PyMySQL)
 
 --- PASSO 3: Execução da Aplicação ---
 1. Abra o arquivo main.py e execute-o.
 2. No terminal, localize o endereço local gerado (exemplo: http://127.0.0.1:5000).
 3. Copie o endereço e cole na barra de pesquisa do seu navegador.
 
---------------------------------------------------------------------------------
+
 OBS:
---------------------------------------------------------------------------------
+
 Como o banco de dados está configurado apenas para o ambiente local e as rotas
 utilizam a estrutura de templates do Flask:
 
