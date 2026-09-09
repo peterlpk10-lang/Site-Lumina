@@ -100,7 +100,7 @@ def login():
             return redirect(url_for('principal_home')) 
         else:
             return render_template('login.html', 
-                           css_path=css_,
+                           #css_path=css_,
                            inicio_path=inicio_url,
                            logo_path=logo_,
                            login_path=login_url,
